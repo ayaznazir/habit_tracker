@@ -3,3 +3,4 @@
 # Implement local data storage with SharedPreferences
 # Add push notifications for habit reminders
 # Integrate analytics for user behavior tracking
+# Implement social features and habit sharing
