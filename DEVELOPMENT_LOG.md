@@ -6,3 +6,4 @@
 # Implement social features and habit sharing
 # Add gamification with achievements and streaks
 # Implement data export/import functionality
+# Enhance accessibility and inclusive design
