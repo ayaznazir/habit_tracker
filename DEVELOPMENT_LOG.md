@@ -7,3 +7,4 @@
 # Add gamification with achievements and streaks
 # Implement data export/import functionality
 # Enhance accessibility and inclusive design
+# Implement offline mode and sync capabilities
