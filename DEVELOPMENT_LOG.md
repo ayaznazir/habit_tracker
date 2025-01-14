@@ -9,3 +9,4 @@
 # Enhance accessibility and inclusive design
 # Implement offline mode and sync capabilities
 # Update app for new year with fresh UI elements
+# Add pre-built habit templates and categories
