@@ -12,3 +12,4 @@
 # Add pre-built habit templates and categories
 # Enhance progress visualization with charts and graphs
 # Implement habit challenges and community features
+# Add mood tracking integration with habits
