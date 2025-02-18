@@ -14,3 +14,4 @@
 # Implement habit challenges and community features
 # Add mood tracking integration with habits
 # Enhance streak tracking with advanced analytics
+# Implement AI-powered habit recommendations
