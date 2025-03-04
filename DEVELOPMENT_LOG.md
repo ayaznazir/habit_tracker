@@ -16,3 +16,4 @@
 # Enhance streak tracking with advanced analytics
 # Implement AI-powered habit recommendations
 # Add habit journaling and reflection features
+# Enhance reminder system with smart scheduling
