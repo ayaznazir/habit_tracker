@@ -17,3 +17,4 @@
 # Implement AI-powered habit recommendations
 # Add habit journaling and reflection features
 # Enhance reminder system with smart scheduling
+# Implement advanced habit categorization system
