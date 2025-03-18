@@ -18,3 +18,4 @@
 # Add habit journaling and reflection features
 # Enhance reminder system with smart scheduling
 # Implement advanced habit categorization system
+# Add goal setting and tracking functionality
