@@ -20,3 +20,4 @@
 # Implement advanced habit categorization system
 # Add goal setting and tracking functionality
 # Implement reward system for habit completion
+# Add detailed insights and habit analysis
