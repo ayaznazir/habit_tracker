@@ -21,3 +21,4 @@
 # Add goal setting and tracking functionality
 # Implement reward system for habit completion
 # Add detailed insights and habit analysis
+# Implement habit sharing and social features
