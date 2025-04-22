@@ -23,3 +23,4 @@
 # Add detailed insights and habit analysis
 # Implement habit sharing and social features
 # Add community challenges and competitions
+# Enhance AI coaching with personalized advice
