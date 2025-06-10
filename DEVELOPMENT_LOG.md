@@ -30,3 +30,4 @@
 # Add advanced customization options for habits
 # Integrate with external apps and services
 # Implement cloud backup and sync functionality
+# Enhance security and privacy features
