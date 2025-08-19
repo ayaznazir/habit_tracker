@@ -40,3 +40,4 @@
 # Implement habit automation and smart suggestions
 # Add advanced insights and habit correlation analysis
 # Enhance AI coaching with machine learning
+# Build community features and social interaction
