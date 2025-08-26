@@ -41,3 +41,4 @@
 # Add advanced insights and habit correlation analysis
 # Enhance AI coaching with machine learning
 # Build community features and social interaction
+# Add advanced challenges and achievement system
